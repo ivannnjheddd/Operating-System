@@ -1,0 +1,58 @@
+Using c++ make file named prelim.cpp
+content is code that is usable !!!!
+
+
+Round Robin                                 Function
+Shortest Jump First                         Function
+Shortest Remaining Time                     Function
+Recommended time Quantum                    Function
+
+Process                                     Struct
+
+
+
+                  -----OUTPUT-----
+___________________________________________________            
+Column:       | PID | AT | BT | CT | TT | WT|
+Rows:           P#
+
+                   Ave TT:
+                   Ave WT:
+
+                  Table Sequence 
+			RR
+			SJF
+			SRF
+
+
+     		  Function Sequence
+			TM
+			RR
+			SJF
+			SRTF
+			main
+
+DATA:
+AT| 4 2 3 6 1 5 8 7 
+BT| 53 43 18 16 44 73 99 27
+
+
+
+Notes:
+
+* Variables are AT not full name, acronym only
+
+* Make sure these are encapsulated in struct / structure name PROCESS
+
+* Median or mean are the values of round robin
+
+* Recommended time Quantum
+
+
+
+
+
+
+
+
+
